@@ -1,7 +1,10 @@
 # plant-life-form-and-niche-evolution:
-This repository contain all our data and R scripts  for the paper:
-Resource Availability and Disturbance Frequency Shape Plant Life Forms in Neotropical Habitats 
+This repository contain all our data and R scripts for the manuscript:
+
+#Resource Availability and Disturbance Frequency Shape Plant Life Forms in Neotropical Habitats 
+
 #Journal: New Phytologist
+
 #Article acceptance date: 30 January 2024
 
 ##A brief summary of what the study is about:
